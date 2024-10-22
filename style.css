@@ -7,4 +7,9 @@ body {
 }
 h1 {
     font-size: large;
+    font-style: italic;
+    color: red;
+}
+.cartaz{
+    width: 120%;
 }
